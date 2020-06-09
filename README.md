@@ -1,4 +1,4 @@
-##Thesis Codes for CEU Economic Policy in Global Markets Program
+## Thesis Codes for CEU Economic Policy in Global Markets Program
 
 **Author: Peter Horn**
 
