@@ -3,7 +3,7 @@
 **Author: Peter Horn**
 
 Files:
-- Data-Cleaning_and_Data-visualisation.ipynb: Data cleaning and visualisation 
+- DataCleaningAndVisClean.ipynb: Data cleaning and visualisation 
 - thesis_matching.do - main regression codes
 - thesis_robustness.do - regression codes for robustness checks
 - thesis_matching.do - CEM regression codes
